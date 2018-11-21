@@ -1,2 +1,2 @@
-# github.one
-hello ~
+# hello ~ My first time.
+
